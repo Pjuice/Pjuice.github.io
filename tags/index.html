@@ -287,6 +287,9 @@
           
 
   
+    <div id="gitalk-container"></div>
+
+  
 
 
 
@@ -602,6 +605,21 @@
 
 
 
+
+  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+   <script type="text/javascript">
+        var gitalk = new Gitalk({
+          clientID: '140c3eaad764e5391a3e',
+          clientSecret: '94a6886d4a31ef45f5a8b93242ec72815d0b28c6',
+          repo: 'Pjuice.github.io',
+          owner: 'Pjuice',
+          admin: ['Pjuice'],
+          id: location.pathname,
+          distractionFreeMode: 'true'
+        })
+        gitalk.render('gitalk-container')           
+       </script>
 
   
 
