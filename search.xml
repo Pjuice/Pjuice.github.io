@@ -4,6 +4,9 @@
     <title><![CDATA[Restart]]></title>
     <url>%2F2018%2F12%2F26%2Frestart%2F</url>
     <content type="text"><![CDATA[Restart my life. Say goodbye to the past time. I must be brave enough to hug my future.]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
       <tags>
         <tag>日志</tag>
       </tags>
@@ -12,6 +15,9 @@
     <title><![CDATA[My first blog]]></title>
     <url>%2F2018%2F12%2F22%2Ftest%2F</url>
     <content type="text"><![CDATA[希望在这里，记录自己成长的点点滴滴。 摄于金沙江路]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
       <tags>
         <tag>日志</tag>
       </tags>
